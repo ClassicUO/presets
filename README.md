@@ -1,4 +1,4 @@
-# presets
+# ClassicUO shard presets for the Launcher
 A collection of UO presets for the ClassicUO Launcher app
 
 
