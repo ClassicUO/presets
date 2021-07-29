@@ -20,7 +20,7 @@ jobs:
           dotnet-version: 5.0.*
 
       - name: Run a multi-line script
-        run: dotnet run PresetsGenrator.csproj
+        run: dotnet run PresetsGenerator.csproj
 
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
