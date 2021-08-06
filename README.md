@@ -3,7 +3,7 @@ A collection of UO presets for the ClassicUO Launcher app
 
 
 # Template
-
+- Fork the repo
 - Create a folder in "presets"
 - Save the "preset.txt" using the template below in the folder created the step before
 - Send the PR
