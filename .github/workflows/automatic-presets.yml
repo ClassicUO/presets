@@ -19,7 +19,7 @@ jobs:
         with:
           dotnet-version: 5.0.*
 
-      - name: Run a multi-line script
+      - name: Build presets.xml
         run: dotnet run PresetsGenerator.csproj
 
       - name: Upload binaries to release
