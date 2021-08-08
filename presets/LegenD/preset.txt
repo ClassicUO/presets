@@ -1,0 +1,5 @@
+name=LegenD
+ip=login.legendshard.com.br
+port=2593
+client_version=7.0.20.0
+encryption=false
