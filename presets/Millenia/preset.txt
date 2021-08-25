@@ -1,0 +1,5 @@
+name=Millenia
+ip=millenia.ultimaonline-freeshard.de
+port=2011
+client_version=6.0.1.10
+encryption=false
