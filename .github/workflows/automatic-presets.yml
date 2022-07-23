@@ -14,10 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setup .NET 5
-        uses: actions/setup-dotnet@v1
+      - name: Setup .NET 6
+        uses: actions/setup-dotnet@v2
         with:
-          dotnet-version: 5.0.*
+          dotnet-version: 6.0.*
 
       - name: Build presets.xml
         run: dotnet run PresetsGenerator.csproj
