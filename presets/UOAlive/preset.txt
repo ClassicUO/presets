@@ -1,5 +1,5 @@
 name=UOAlive
 ip=login.uoalive.com
 port=2593
-client_version=7.0.95.00
+client_version=7.0.97.25
 encryption=false
