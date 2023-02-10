@@ -1,5 +1,5 @@
 name=OSI
 ip=login.ultimaonline.com
 port=7776
-client_version=7.0.98.0
+client_version=7.0.98.1
 encryption=true
