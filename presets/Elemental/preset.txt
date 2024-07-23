@@ -1,0 +1,5 @@
+name=Elemental
+ip=login.uoelemental.com
+port=2593
+client_version=7.0.88.1
+encryption=false

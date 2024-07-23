@@ -1,0 +1,5 @@
+name=Eclipse
+ip=play.uoeclipse.com
+port=2593
+client_version=7.0.95.0
+encryption=0
